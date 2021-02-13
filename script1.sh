@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Uday
 echo Sushmita
 echo Akhil
